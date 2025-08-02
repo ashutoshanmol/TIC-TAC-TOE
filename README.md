@@ -16,5 +16,5 @@ CSS3
 JavaScript (Vanilla)
 
 ✨ Live Demo
-🔗 Play Online :
+🔗 Play Online : https://ashutoshanmol.github.io/TIC-TAC-TOE/
 
